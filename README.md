@@ -1,1 +1,1 @@
-# NoDupes
+A litte work in progress widget that I created for my personal use to sum and remove duplicated lines from an Excel file. In this project I used ExcelMapper to map out the columns I wanted to pick cos makes stuff in the background for me lot easier than old school direct use of NPOI library's way of dealing with Excel files like i did in the Monitorizare project back in 2019. Less hassle? Yes, thank you!
